@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200" role="img" aria-label="Thanks for visiting. In God we trust. All others must bring data.">
+<title>Thanks for visiting</title>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff5fa8"/><stop offset="0.5" stop-color="#a78bfa"/><stop offset="1" stop-color="#38bdf8"/></linearGradient></defs>
+<ellipse rx="5" ry="2.8" fill="#ffb7d5" transform="rotate(30)"><animateMotion dur="9s" begin="0s" repeatCount="indefinite" path="M80 -10 Q120 90 60 210"/></ellipse>
+<ellipse rx="5" ry="2.8" fill="#ffb7d5" transform="rotate(-20)"><animateMotion dur="11s" begin="-3s" repeatCount="indefinite" path="M210 -10 Q250 90 190 210"/></ellipse>
+<ellipse rx="5" ry="2.8" fill="#ffb7d5" transform="rotate(50)"><animateMotion dur="8s" begin="-5s" repeatCount="indefinite" path="M350 -10 Q390 90 330 210"/></ellipse>
+<ellipse rx="5" ry="2.8" fill="#ffb7d5" transform="rotate(10)"><animateMotion dur="12s" begin="-2s" repeatCount="indefinite" path="M520 -10 Q560 90 500 210"/></ellipse>
+<ellipse rx="5" ry="2.8" fill="#ffb7d5" transform="rotate(-40)"><animateMotion dur="9s" begin="-6s" repeatCount="indefinite" path="M660 -10 Q700 90 640 210"/></ellipse>
+<ellipse rx="5" ry="2.8" fill="#ffb7d5" transform="rotate(25)"><animateMotion dur="10s" begin="-4s" repeatCount="indefinite" path="M790 -10 Q830 90 770 210"/></ellipse>
+<ellipse rx="5" ry="2.8" fill="#ffb7d5" transform="rotate(-10)"><animateMotion dur="13s" begin="-8s" repeatCount="indefinite" path="M450 -10 Q490 90 430 210"/></ellipse>
+<line x1="685" y1="150" x2="850" y2="150" stroke="#30363d" stroke-width="2"/>
+<rect x="700" y="110" width="24" height="40" rx="3" fill="url(#g)"><animate attributeName="height" values="0;0;40;40;0" keyTimes="0;0.050;0.175;0.92;1" dur="8s" repeatCount="indefinite"/><animate attributeName="y" values="150;150;110;110;150" keyTimes="0;0.050;0.175;0.92;1" dur="8s" repeatCount="indefinite"/></rect>
+<rect x="740" y="80" width="24" height="70" rx="3" fill="url(#g)"><animate attributeName="height" values="0;0;70;70;0" keyTimes="0;0.087;0.212;0.92;1" dur="8s" repeatCount="indefinite"/><animate attributeName="y" values="150;150;80;80;150" keyTimes="0;0.087;0.212;0.92;1" dur="8s" repeatCount="indefinite"/></rect>
+<rect x="780" y="95" width="24" height="55" rx="3" fill="url(#g)"><animate attributeName="height" values="0;0;55;55;0" keyTimes="0;0.125;0.250;0.92;1" dur="8s" repeatCount="indefinite"/><animate attributeName="y" values="150;150;95;95;150" keyTimes="0;0.125;0.250;0.92;1" dur="8s" repeatCount="indefinite"/></rect>
+<rect x="820" y="55" width="24" height="95" rx="3" fill="url(#g)"><animate attributeName="height" values="0;0;95;95;0" keyTimes="0;0.162;0.287;0.92;1" dur="8s" repeatCount="indefinite"/><animate attributeName="y" values="150;150;55;55;150" keyTimes="0;0.162;0.287;0.92;1" dur="8s" repeatCount="indefinite"/></rect>
+<g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+<text x="450" y="85" font-size="26" font-weight="700" fill="url(#g)" opacity="0">Thanks for stopping by!<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.05;0.15;0.92;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="450" y="125" font-size="17" font-style="italic" fill="#8b949e" opacity="0">"In God we trust. All others must bring data."<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.2;0.32;0.92;1" dur="8s" repeatCount="indefinite"/></text>
+</g>
+<g transform="translate(130,95)">
+<g><animateTransform attributeName="transform" type="translate" values="0,0;0,-4;0,0" dur="0.9s" repeatCount="indefinite"/>
+
+<polygon points="-16,-4 -14,-25 -3,-14" fill="#7c5cd6"/>
+<polygon points="16,-4 14,-25 3,-14" fill="#7c5cd6"/>
+<polygon points="-13,-8 -12,-19 -6,-13" fill="#ff9fc4"/>
+<polygon points="13,-8 12,-19 6,-13" fill="#ff9fc4"/>
+<line x1="-9" y1="24" x2="-13" y2="44" stroke="#7c5cd6" stroke-width="5" stroke-linecap="round"/>
+<line x1="9" y1="24" x2="13" y2="44" stroke="#7c5cd6" stroke-width="5" stroke-linecap="round"/>
+<circle cx="-13" cy="45" r="3.2" fill="#ffe5d6"/>
+<circle cx="13" cy="45" r="3.2" fill="#ffe5d6"/>
+<line x1="-10" y1="20" x2="-17" y2="32" stroke="#7c5cd6" stroke-width="5" stroke-linecap="round"/>
+<circle cx="-17" cy="33" r="3.2" fill="#ffe5d6"/>
+<rect x="-11" y="14" width="22" height="22" rx="8" fill="#7c5cd6"/>
+<rect x="-11" y="27" width="22" height="3.5" fill="#ff7eb6"/>
+<g transform="translate(10,19)">
+<g><animateTransform attributeName="transform" type="rotate" values="-25;25;-25" dur="0.7s" repeatCount="indefinite"/>
+<line x1="0" y1="0" x2="12" y2="-16" stroke="#7c5cd6" stroke-width="5" stroke-linecap="round"/>
+<circle cx="12" cy="-17" r="3.2" fill="#ffe5d6"/></g></g>
+<circle r="17" fill="#7c5cd6"/>
+<ellipse cx="0" cy="3" rx="11.5" ry="10.5" fill="#ffe5d6"/>
+<path d="M-11.5 0 Q-6 -11 0 -4 Q6 -11 11.5 0 L11.5 -4 Q0 -15 -11.5 -4 Z" fill="#3b2a6b"/>
+<path d="M-7 4 Q-4.5 1.5 -2 4" stroke="#2b2140" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+<path d="M2 4 Q4.5 1.5 7 4" stroke="#2b2140" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+<circle cx="-8" cy="8" r="2" fill="#ff9fc4" opacity="0.7"/>
+<circle cx="8" cy="8" r="2" fill="#ff9fc4" opacity="0.7"/>
+<path d="M-2.5 8.5 Q0 11.5 2.5 8.5" stroke="#2b2140" stroke-width="1" fill="none" stroke-linecap="round"/>
+
+</g></g>
+</svg>
