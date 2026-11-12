@@ -47,4 +47,6 @@ I like cleaning up messy data, building dashboards, and spotting the one detail 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adithyamp)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adithyagagarinmp@gmail.com)
 
-<p align="center"><i>"In God we trust. All others must bring data."</i> 📈</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Adithyagagarin/Adithyagagarin/main/footer-animation.svg" width="100%" alt="Thanks for stopping by! In God we trust. All others must bring data." />
+</p>
