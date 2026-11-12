@@ -1,10 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Adithya%20Gagarin%20M%20P&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20AI%20Data%20Evaluation%20%7C%20E-commerce%20Catalog%20Operations&descSize=16&descAlignY=58" width="100%" alt="header banner" />
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Turning+messy+data+into+clear+insights;Dashboards+%7C+SQL+%7C+Python+%7C+Excel;Quality+checking+AI+outputs+and+annotations;Always+learning%2C+always+validating" alt="Typing animation" />
+  <img src="https://raw.githubusercontent.com/Adithyagagarin/Adithyagagarin/main/name-animation.svg" width="100%" alt="Adithya Gagarin M P - Data Analyst | AI Data Annotation & Evaluation | E-commerce Catalog Operations" />
 </p>
 
-## 👋 About me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7EB6&center=true&vCenter=true&width=600&lines=Turning+messy+data+into+clear+insights;Dashboards+%7C+SQL+%7C+Python+%7C+Excel;Quality+checking+AI+outputs+and+annotations;Always+learning%2C+always+validating" alt="Typing animation" />
+</p>
+
+## 🌸 About me
 
 I'm a data analyst with 3+ years of experience in e-commerce catalog operations, data validation, and analytics. Lately I've been working in AI data annotation and evaluation, including Malayalam transcription and AI response review.
 
@@ -24,6 +26,8 @@ I like cleaning up messy data, building dashboards, and spotting the one detail 
 ![MySQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ## 🚀 Featured projects
 
@@ -46,5 +50,3 @@ I like cleaning up messy data, building dashboards, and spotting the one detail 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adithyagagarinmp@gmail.com)
 
 <p align="center"><i>"In God we trust. All others must bring data."</i> 📈</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0647f,100:5b2a74&height=100§ion=footer" width="100%" alt="footer" />
